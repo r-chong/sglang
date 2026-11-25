@@ -1,0 +1,19 @@
+docs/src/snippets/configs/meta-models/muse-glimmer.jsx
+  s_6a896fb8f05413::t_e8cc5986f5a456 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4f48d54d5342c5461f5075df9f73767b0c236566",
+  "prompts": {},
+  "sessions": {
+    "s_6a896fb8f05413": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a214b9-c9ae-7981-b94d-2c8abd999119",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "r-chong <dev.reese.chong@gmail.com>"
+    }
+  }
+}
