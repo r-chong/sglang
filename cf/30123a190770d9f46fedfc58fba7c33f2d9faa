@@ -1,0 +1,24 @@
+docs/src/snippets/configs/meta-models/muse-glimmer.jsx
+  s_6a896fb8f05413::t_b3a36f492ffd69 107,399
+  s_6a896fb8f05413::t_8eadc2d87d8f9d 393-398,400-404
+  s_6a896fb8f05413::t_a6382bba2e8daf 405
+  s_6a896fb8f05413::t_126790015b5fae 406
+python/sglang/cli/_commands/meta-models--Muse-Glimmer-30B.json
+  s_6a896fb8f05413::t_a6382bba2e8daf 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cf30123a190770d9f46fedfc58fba7c33f2d9faa",
+  "prompts": {},
+  "sessions": {
+    "s_6a896fb8f05413": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a214b9-c9ae-7981-b94d-2c8abd999119",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "r-chong <dev.reese.chong@gmail.com>"
+    }
+  }
+}
